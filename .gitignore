@@ -1,3 +1,2 @@
-venv
-dags
-logs
+dags/*
+logs/*
