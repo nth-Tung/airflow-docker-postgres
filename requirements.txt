@@ -1,3 +1,5 @@
+selenium==4.30.0
+undetected-chromedriver==3.5.5
 # Core data processing
 pandas==2.1.4
 numpy==1.26.4

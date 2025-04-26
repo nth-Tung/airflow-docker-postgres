@@ -1,0 +1,842 @@
+﻿Giá,Địa chỉ,Loại hình nhà ở,Diện tích đất,Chiều ngang,Chiều dài,Số phòng ngủ,Số phòng vệ sinh,Tổng số tầng,Giấy tờ pháp lý
+"8,5 tỷ","Đường Trần Bình Trọng, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56 m²,N/A,N/A,4 phòng,3 phòng,N/A,Đã có sổ
+9 tỷ,"213/12, Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,5 m,9.6 m,3 phòng,2 phòng,N/A,Đã có sổ
+"3,98 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,3 m,6 m,2 phòng,3 phòng,3,Đã có sổ
+"30,8 tỷ","Đường Bùi Hữu Nghĩa, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",120 m²,4.5 m,19 m,6 phòng,N/A,N/A,Đã có sổ
+"9,9 tỷ","Đường Trần Thánh Tông, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng","Nhà mặt phố, mặt tiền",91 m²,5 m,N/A,4 phòng,4 phòng,4,Đã có sổ
+"11,75 tỷ","Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,4 m,14.5 m,4 phòng,4 phòng,3,Đã có sổ
+"2,55 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,N/A,N/A,3 phòng,3 phòng,3,Đã có sổ
+16 tỷ,"Đường Nguyễn Tri Phương, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",50 m²,4.3 m,11 m,8 phòng,6 phòng,7,Đã có sổ
+"2,125 tỷ","Đường Bùi Hữu Nghĩa, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",12 m²,N/A,12 m,3 phòng,3 phòng,N/A,Đã có sổ
+"19,5 tỷ","Đường Nguyễn Tri Phương, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",47.3 m²,4.3 m,11 m,5 phòng,4 phòng,4,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,N/A,N/A,6 phòng,N/A,N/A,Đã có sổ
+"3,88 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,4 m,7.5 m,4 phòng,4 phòng,4,Đã có sổ
+23 tỷ,"Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",100 m²,5 m,23 m,5 phòng,5 phòng,N/A,Đã có sổ
+"4,9 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,N/A,N/A,2 phòng,N/A,2,Đã có sổ
+"6,58 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,N/A,N/A,4 phòng,3 phòng,N/A,Đã có sổ
+"11,9 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,4 m,14.5 m,4 phòng,4 phòng,4,Đã có sổ
+"9,5 tỷ","Đường Nguyễn Tri Phương, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43.2 m²,3.6 m,12 m,4 phòng,5 phòng,5,Đã có sổ
+"8,6 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,3.8 m,12 m,2 phòng,2 phòng,1,Đã có sổ
+5 tỷ,"Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,4 m,9.5 m,2 phòng,2 phòng,2,Đã có sổ
+"1,85 tỷ","Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",12 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"9,5 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,3 m,17 m,4 phòng,N/A,5,Đã có sổ
+"12,5 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,50 m²,4 m,12.5 m,5 phòng,4 phòng,N/A,Đã có sổ
+"16,5 tỷ","Đường Lê Hồng Phong, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",46 m²,3.45 m,15 m,3 phòng,2 phòng,2,Đã có sổ
+"10,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+8 tỷ,"Đường Võ Văn Kiệt, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",21 m²,3.7 m,5.8 m,3 phòng,3 phòng,4,Đã có sổ
+11 tỷ,"Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,4 m,13 m,3 phòng,N/A,N/A,Đã có sổ
+"27,4 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",117 m²,5.2 m,22 m,4 phòng,4 phòng,3,Đã có sổ
+"4,6 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24.5 m²,3.5 m,7 m,3 phòng,N/A,4,Đã có sổ
+"5,95 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52.8 m²,4.4 m,12 m,4 phòng,4 phòng,N/A,Đã có sổ
+"14,5 tỷ","1205, Yết Kiêu, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",64 m²,4 m,12 m,4 phòng,4 phòng,4,Đã có sổ
+"10,2 tỷ","Trần Bình Trọng, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56.6 m²,4 m,12 m,4 phòng,5 phòng,3,Đã có sổ
+"14,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,4 phòng,5 phòng,4,Đã có sổ
+"2,65 tỷ","Đường Lý Thường Kiệt, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"13,5 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,N/A,N/A,6 phòng,N/A,N/A,Đã có sổ
+25 tỷ,"Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",90 m²,5 m,18 m,2 phòng,N/A,N/A,Đã có sổ
+"11,5 tỷ","Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",52 m²,N/A,N/A,10 phòng,N/A,N/A,Đã có sổ
+"22,4 tỷ","Đường Nguyễn Chí Thanh, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",54 m²,3.6 m,15 m,10 phòng,Nhiều hơn 6 phòng,6,Đã có sổ
+"2,9 tỷ","Đường Ngô Quyền, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,3 phòng,3 phòng,1,Đã có sổ
+7 tỷ,"Đường Trần Phú, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45 m²,3.6 m,12 m,6 phòng,5 phòng,2,Đã có sổ
+4 tỷ,"Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",17 m²,3 m,6 m,2 phòng,N/A,N/A,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"4,5 tỷ","666, Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,2.8 m,7.2 m,5 phòng,3 phòng,4,Đã có sổ
+"3,29 tỷ","hà tôn quyền, Phường 7, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,25 m²,5 m,5 m,3 phòng,3 phòng,4,Đã có sổ
+"6,5 tỷ","900/, Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",49 m²,3.5 m,14 m,3 phòng,3 phòng,3,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,51 m²,N/A,N/A,5 phòng,N/A,6,Đang chờ sổ
+"7,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10.5 m,4 phòng,4 phòng,4,Đã có sổ
+"8,6 tỷ","Đường Võ Văn Kiệt, Phường Cầu Kho, Quận 1, Tp Hồ Chí Minh","Nhà ngõ, hẻm",57 m²,4.85 m,11 m,2 phòng,2 phòng,2,Đã có sổ
+"11,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.3 m,13 m,5 phòng,6 phòng,4,Đã có sổ
+"8,2 tỷ","Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,3.3 m,12 m,5 phòng,N/A,N/A,Đã có sổ
+12 tỷ,", Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,4 m,14.5 m,5 phòng,N/A,N/A,Đã có sổ
+"13,5 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",74 m²,3.9 m,19 m,5 phòng,5 phòng,4,Đã có sổ
+"3,98 tỷ","Đường Trần Phú, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",62.4 m²,4.8 m,13 m,4 phòng,5 phòng,2,Đã có sổ
+"4,19 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,50 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+14 tỷ,"Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",81 m²,8 m,10 m,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,3,Đã có sổ
+"16,5 tỷ","35, Đường Nguyễn Tri Phương, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",43.6 m²,4.3 m,10 m,8 phòng,Nhiều hơn 6 phòng,6,Đã có sổ
+"2,9 tỷ","Đường Trần Bình Trọng, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,2 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+34 tỷ,"Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",53.9 m²,4 m,13.5 m,5 phòng,Nhiều hơn 6 phòng,5,Đã có sổ
+12 tỷ,"Đường Hà Tôn Quyền, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",54 m²,N/A,N/A,2 phòng,2 phòng,N/A,Đã có sổ
+9 triệu/tháng,"299/15/9B, Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh","Nhà ngõ, hẻm",76 m²,4 m,19 m,4 phòng,3 phòng,4,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,4 m,13.5 m,5 phòng,5 phòng,5,Đã có sổ
+"2,6 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",12 m²,3.2 m,4 m,2 phòng,2 phòng,N/A,Đã có sổ
+"5,2 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20.25 m²,N/A,N/A,2 phòng,3 phòng,2,Đã có sổ
+"44,9 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",102 m²,4.1 m,25 m,2 phòng,1 phòng,N/A,Đã có sổ
+17 tỷ,"Đường Trần Bình Trọng, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",76 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"4,3 tỷ","Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3.5 m,6 m,3 phòng,3 phòng,5,Đã có sổ
+"3,98 tỷ","Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",27 m²,N/A,N/A,2 phòng,2 phòng,N/A,Đã có sổ
+"9,1 tỷ","Hồ Thị Kỷ, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,3.7 m,13 m,3 phòng,4 phòng,4,Đã có sổ
+"9,09 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,N/A,N/A,5 phòng,6 phòng,N/A,Đã có sổ
+"7,1 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,3.9 m,10 m,4 phòng,4 phòng,4,Đã có sổ
+"6,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",23.1 m²,3.6 m,6.8 m,3 phòng,3 phòng,3,Đã có sổ
+5 tỷ,"Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26 m²,N/A,N/A,3 phòng,4 phòng,4,Đã có sổ
+"7,499 tỷ","Đường Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",81 m²,5.2 m,14.5 m,4 phòng,5 phòng,4,Đã có sổ
+"4,4 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",23 m²,3 m,9 m,2 phòng,1 phòng,1,Đã có sổ
+"5,68 tỷ","Đường Huỳnh Mẫn Đạt, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",23.8 m²,N/A,N/A,2 phòng,2 phòng,1,Đã có sổ
+"3,35 tỷ","Đường Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,2 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+6 tỷ,"Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",38 m²,3 m,12.5 m,3 phòng,2 phòng,3,Đã có sổ
+6 tỷ,"Đường Hoàng Hoa Thám, Phường Bưởi, Quận Tây Hồ, Hà Nội","Nhà ngõ, hẻm",31 m²,N/A,N/A,4 phòng,3 phòng,5,Đã có sổ
+"12,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",54 m²,4 m,13.5 m,5 phòng,5 phòng,5,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",51 m²,4 m,13 m,4 phòng,4 phòng,4,Đang chờ sổ
+"3,96 tỷ","trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20.1 m²,N/A,N/A,2 phòng,2 phòng,2,Đã có sổ
+"3,15 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",75.6 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"10,9 tỷ","Nguyễn Văn Đừng, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55.8 m²,3.6 m,15.5 m,2 phòng,N/A,4,Đã có sổ
+"1,8 triệu/tháng","Đường Nguyễn Quyền, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,88 tỷ","Trần Phú, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,5 phòng,N/A,N/A,Đã có sổ
+"6,9 tỷ","Đường Dương Tử Giang, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",65 m²,4.4 m,15 m,2 phòng,3 phòng,3,Đã có sổ
+13 tỷ,"160, Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"4,7 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3 m,7.7 m,3 phòng,3 phòng,4,Đã có sổ
+"13,5 tỷ","Đường An Bình, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,6 phòng,6 phòng,N/A,Đã có sổ
+"9,799 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",32 m²,3 m,11 m,2 phòng,3 phòng,4,Đã có sổ
+"10,2 tỷ","Trần Bình Trọng, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56.6 m²,4 m,12 m,4 phòng,5 phòng,3,Đã có sổ
+"12,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,4 m,13 m,5 phòng,N/A,5,Đã có sổ
+"3,87 tỷ","Đường Trần Phú, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",65 m²,5 m,13 m,3 phòng,N/A,N/A,Đã có sổ
+"4,25 tỷ","Đường Huỳnh Mẫn Đạt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",54.6 m²,5.5 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"4,45 tỷ","Đường Phan Văn Trị, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",54.5 m²,5.4 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"2,88 tỷ","Bán Nhà Hẻm 48/nguyễn Biểu P1 Q5., Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,2 phòng,2 phòng,1,Đã có sổ
+"5,18 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,N/A,N/A,4 phòng,5 phòng,3,Đã có sổ
+"4,8 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3.9 m,9 m,2 phòng,2 phòng,N/A,Đã có sổ
+"4,68 tỷ","Trần Tuấn Khải, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",86.8 m²,6.2 m,14 m,5 phòng,N/A,N/A,Đã có sổ
+"6,3 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,3 phòng,3 phòng,4,Đã có sổ
+9 tỷ,"Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",28 m²,3.5 m,8 m,2 phòng,3 phòng,3,Đã có sổ
+10 tỷ,"Đường Nguyễn Văn Đừng, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52.85 m²,3.8 m,14 m,2 phòng,1 phòng,1,Đã có sổ
+"3,86 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,5 phòng,5,Đã có sổ
+"7,3 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40.7 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"3,55 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"3,9 tỷ","Đường Võ Văn Kiệt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,3.7 m,10 m,2 phòng,2 phòng,2,Đã có sổ
+"13,5 tỷ","Đường An Bình, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",70 m²,4 m,17 m,7 phòng,5 phòng,5,Đã có sổ
+"3,86 tỷ","Đường Trần Bình Trọng, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"3,58 tỷ","Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",375 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"23,5 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",55 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"4,35 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",31.5 m²,3.5 m,9 m,3 phòng,N/A,N/A,Đã có sổ
+"3,98 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26.9 m²,5 m,6 m,2 phòng,2 phòng,3,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,N/A,N/A,5 phòng,3 phòng,N/A,Đã có sổ
+"4,99 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,3 phòng,3 phòng,4,Đã có sổ
+"9,7 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,49 m²,3.5 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+"10,5 tỷ","117, Đường Nguyễn Sơn, Phường Gia Thụy, Quận Long Biên, Hà Nội",Nhà phố liền kề,55 m²,4.5 m,N/A,4 phòng,4 phòng,5,Đã có sổ
+"5,98 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3.7 m,8.3 m,2 phòng,3 phòng,4,Đã có sổ
+"7,6 tỷ","Đường Dương Tử Giang, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",65 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"4,9 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,3 m,13.2 m,3 phòng,3 phòng,3,Đã có sổ
+28 tỷ,"Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",110 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"11,5 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"3,25 tỷ","Đường Ngô Quyền, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+4 tỷ,"gần đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",22 m²,3.2 m,7 m,3 phòng,N/A,N/A,Đã có sổ
+"11,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,50 m²,4 m,15 m,4 phòng,N/A,N/A,Đã có sổ
+"4,8 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,4 m,9 m,2 phòng,2 phòng,2,Đã có sổ
+"2,4 tỷ","Đường Hồng Bàng, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",47.96 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"4,99 tỷ","750, Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3.7 m,8 m,2 phòng,3 phòng,4,Đã có sổ
+"3,75 tỷ","Đường Lê Hồng Phong, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40.5 m²,4.5 m,9 m,3 phòng,4 phòng,N/A,Đã có sổ
+"8,2 tỷ","Đường Nguyễn Thị Nhỏ, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3.1 m,9.4 m,4 phòng,3 phòng,N/A,Đã có sổ
+"9,3 tỷ","Đường số 27, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",N/A,100 m²,4.5 m,22 m,N/A,N/A,N/A,Đã có sổ
+"1,85 tỷ","Đường Lê Văn Thịnh, Phường Bình Trưng Tây (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh","Nhà ngõ, hẻm",31 m²,N/A,N/A,2 phòng,2 phòng,2,Đã có sổ
+9 tỷ,"Đường Trần Phú, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,11 m,4 m,6 phòng,3 phòng,2,Sổ chung / công chứng vi bằng
+"3,35 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,4 m,11 m,4 phòng,N/A,N/A,Đã có sổ
+160 triệu,"QL14, Xã Đồng Tiến, Huyện Đồng Phú, Bình Phước",N/A,1000 m²,10 m,100 m,N/A,N/A,N/A,Đã có sổ
+"2,99 tỷ","Đường Bùi Hữu Nghĩa, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,4.5 m,4 m,4 phòng,4 phòng,4,Đã có sổ
+9 tỷ,"Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",23 m²,3.3 m,7 m,2 phòng,N/A,N/A,Đã có sổ
+"10,8 tỷ","Đường Võ Văn Kiệt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45.3 m²,3.6 m,12.6 m,4 phòng,3 phòng,N/A,Đã có sổ
+"5,98 tỷ","Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30.3 m²,3.65 m,8.3 m,2 phòng,3 phòng,N/A,Đã có sổ
+"12,9 tỷ","HẺM XE TẢI, Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55.3 m²,N/A,N/A,5 phòng,5 phòng,1,Đã có sổ
+"8,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45 m²,3.2 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+"44,9 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",103 m²,N/A,N/A,1 phòng,N/A,N/A,Đã có sổ
+"1,88 tỷ","Đường Tản Đà, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,5 m,14 m,4 phòng,3 phòng,2,Đã có sổ
+"9,5 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45 m²,4.4 m,13 m,5 phòng,5 phòng,5,Đã có sổ
+"7,6 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",38 m²,2.8 m,13.7 m,5 phòng,6 phòng,5,Đã có sổ
+"12,5 tỷ","Đường Hưng Phú, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",40 m²,4.5 m,9 m,5 phòng,4 phòng,5,Đã có sổ
+8 tỷ,"Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,47 m²,N/A,N/A,1 phòng,N/A,2,Đã có sổ
+"5,89 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",54 m²,4.5 m,12 m,3 phòng,4 phòng,N/A,Đã có sổ
+"7,8 tỷ","Đường Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",81 m²,5.2 m,14.5 m,4 phòng,5 phòng,4,Đã có sổ
+"14,8 tỷ","Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",40 m²,3.6 m,12 m,4 phòng,4 phòng,5,Đã có sổ
+"10,8 tỷ","22/28, Đường Nguyễn Thời Trung, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",70.7 m²,4 m,17.7 m,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,4,Đã có sổ
+"3,85 tỷ","Huỳnh Mẫn Đạt, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",73.6 m²,4.6 m,16 m,4 phòng,N/A,N/A,Đã có sổ
+32 tỷ,"Đường Hải Thượng Lãn Ông, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",139 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"5,2 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,N/A,N/A,3 phòng,4 phòng,N/A,Đã có sổ
+"12,999 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,4 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+"4,4 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,2 phòng,2 phòng,3,Đã có sổ
+"5,35 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",34 m²,3.3 m,10 m,9 phòng,4 phòng,4,Đã có sổ
+4 tỷ,"Đường Nguyễn Văn Cừ, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24.5 m²,3.5 m,7 m,3 phòng,3 phòng,N/A,Đã có sổ
+"8,5 tỷ","Đường Nguyễn Thị Nhỏ, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",34 m²,3.4 m,N/A,4 phòng,4 phòng,4,Đã có sổ
+"5,2 tỷ","Đường Trường Chinh, Phường 12, Quận Tân Bình, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,3.5 m,13 m,3 phòng,2 phòng,3,Đã có sổ
+132 tỷ,"Đường Hải Thượng Lãn Ông, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",348 m²,N/A,N/A,1 phòng,1 phòng,1,Đã có sổ
+15 triệu/tháng,"Hẻm 157 Dương Bá Trạc, Phường 1, Quận 8, Tp Hồ Chí Minh","Nhà ngõ, hẻm",90 m²,5 m,18 m,4 phòng,3 phòng,2,Đã có sổ
+"4,8 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",17.1 m²,3 m,5.7 m,3 phòng,3 phòng,N/A,Đã có sổ
+"3,19 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",29 m²,4 m,7 m,4 phòng,5 phòng,3,Đã có sổ
+"1,65 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",29.6 m²,4 m,7.4 m,4 phòng,4 phòng,3,Không có sổ
+"11,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,4 m,15 m,4 phòng,5 phòng,4,Đã có sổ
+"1,25 tỷ","Đường Đỗ Nhuận, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+32 tỷ,"Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",149 m²,8 m,18 m,8 phòng,6 phòng,N/A,Đã có sổ
+"13,7 tỷ","560, Đường Nguyễn Văn Cừ, Phường Gia Thụy, Quận Long Biên, Hà Nội","Nhà mặt phố, mặt tiền",70 m²,4 m,N/A,5 phòng,5 phòng,5,Đã có sổ
+"11,999 tỷ","Đường Ngã Sáu Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,4 m,14 m,5 phòng,5 phòng,6,Đã có sổ
+"1,63 tỷ","Đường Nguyễn Văn Linh, Phường Long Tuyền, Quận Bình Thuỷ, Cần Thơ","Nhà ngõ, hẻm",70 m²,5 m,14 m,2 phòng,1 phòng,1,Đã có sổ
+"4,99 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26 m²,3 m,10 m,3 phòng,4 phòng,4,Đã có sổ
+"5,6 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",27 m²,3 m,9 m,4 phòng,N/A,N/A,Đã có sổ
+"3,15 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,2 m,5 m,3 phòng,2 phòng,N/A,Đã có sổ
+"9,9 tỷ","Đường Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,N/A,N/A,nhiều hơn 10 phòng,N/A,N/A,Đã có sổ
+"9,8 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",62.4 m²,418 m,N/A,5 phòng,3 phòng,2,Đã có sổ
+"13,5 tỷ","Đường An Bình, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",66 m²,4 m,17 m,6 phòng,6 phòng,5,Đã có sổ
+"2,55 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,N/A,N/A,3 phòng,4 phòng,3,Đã có sổ
+"10,8 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,4 m,14 m,7 phòng,5 phòng,5,Đã có sổ
+9 tỷ,"Đường Nguyễn Văn Cừ, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,5 m,10 m,3 phòng,2 phòng,2,Đã có sổ
+5 tỷ,"Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,3 phòng,4 phòng,3,Đã có sổ
+"19,5 tỷ","Đường Cao Đạt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",60 m²,6 m,10 m,5 phòng,3 phòng,4,Đã có sổ
+"3,98 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",27 m²,5 m,6 m,2 phòng,2 phòng,3,Đã có sổ
+"8,9 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",70 m²,5 m,14 m,4 phòng,5 phòng,3,Đã có sổ
+"6,3 triệu/tháng","148, Đường Tôn Đản, Phường 8, Quận 4, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,46 tỷ","Đường Huỳnh Mẫn Đạt, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,2 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+56 tỷ,"293, an duong vuong p3 q5, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",83 m²,4 m,22 m,4 phòng,4 phòng,4,Đã có sổ
+"1,835 tỷ","Đường Bình Mỹ, Xã Bình Mỹ, Huyện Củ Chi, Tp Hồ Chí Minh",N/A,99 m²,5 m,19.99 m,N/A,N/A,N/A,Đã có sổ
+"16,2 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,4.2 m,15 m,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,6,Đã có sổ
+"17,9 tỷ","74, Đường Lê Hồng Phong, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",52 m²,3.5 m,15 m,3 phòng,3 phòng,2,Đã có sổ
+"1,95 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",18.2 m²,2.8 m,6.5 m,2 phòng,2 phòng,2,Đã có sổ
+"9,2 tỷ","Đường Nguyễn Văn Cừ, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",47 m²,5 m,9.5 m,3 phòng,N/A,3,Đã có sổ
+"4,4 tỷ","40A, Đường Xô Viết Nghệ Tĩnh, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,Hợp đồng mua bán
+"3,46 tỷ","Đường Ngô Quyền, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,2 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"9,25 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,4 m,14.5 m,4 phòng,5 phòng,4,Đã có sổ
+"4,98 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"9,7 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,3.55 m,13 m,4 phòng,N/A,N/A,Đã có sổ
+"3,99 tỷ","huỳnh mẫn đạt phường 5, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",73.6 m²,4.6 m,16 m,4 phòng,5 phòng,2,Đã có sổ
+"24,5 tỷ","Đường Hùng Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",55.5 m²,4.4 m,13 m,4 phòng,2 phòng,3,Đã có sổ
+"4,3 tỷ","235/12B, Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",18 m²,3.5 m,7 m,3 phòng,3 phòng,4,Đã có sổ
+"23,5 tỷ","Đường Ngô Quyền, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"2,49 tỷ","Đường Vĩnh Khánh, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,4 m,5 m,2 phòng,3 phòng,N/A,Đã có sổ
+"3,1 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",16 m²,3 m,6 m,3 phòng,2 phòng,3,Đã có sổ
+"2,25 tỷ","Bạch Vân, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",15.2 m²,2.5 m,6 m,3 phòng,4 phòng,4,Đã có sổ
+"9,49 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43.2 m²,3.6 m,12 m,3 phòng,N/A,N/A,Đã có sổ
+"6,3 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,3 phòng,3 phòng,34,Đã có sổ
+"13,99 tỷ","110C, Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",67.2 m²,4.2 m,16 m,4 phòng,3 phòng,3,Đã có sổ
+"2,9 tỷ","Đường Huỳnh Văn Nghệ, Phường Bửu Long, Thành phố Biên Hòa, Đồng Nai","Nhà ngõ, hẻm",80 m²,4.8 m,17 m,3 phòng,3 phòng,2,Đã có sổ
+"8,5 tỷ","Đường Hải Thượng Lãn Ông, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.5 m,14 m,3 phòng,3 phòng,3,Đã có sổ
+5 tỷ,"Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,4 m,8 m,3 phòng,3 phòng,4,Đã có sổ
+"9,1 tỷ","Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",22 m²,3.3 m,7 m,2 phòng,3 phòng,2,Đã có sổ
+28 tỷ,"138/26, Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",157.5 m²,7 m,22.5 m,6 phòng,3 phòng,N/A,Đã có sổ
+"20,5 tỷ","Đường Nguyễn Văn Đừng, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",52 m²,3.5 m,16 m,5 phòng,N/A,N/A,Đã có sổ
+"7,8 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25 m²,3.2 m,8 m,4 phòng,5 phòng,4,Đã có sổ
+"20,5 tỷ","51/34, Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",100 m²,5 m,20 m,4 phòng,5 phòng,2,Đã có sổ
+"15,2 tỷ","Đường Huỳnh Mẫn Đạt, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",52 m²,3.8 m,14 m,1 phòng,2 phòng,2,Đã có sổ
+"10,1 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",70 m²,N/A,N/A,5 phòng,3 phòng,N/A,Đã có sổ
+"4,999 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,9.7 m,2 phòng,2 phòng,2,Đã có sổ
+14 tỷ,"Đường Nguyễn Biểu, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",26.2 m²,3.3 m,12 m,6 phòng,Nhiều hơn 6 phòng,5,Đã có sổ
+"2,8 tỷ","Đường Trần Bình Trọng, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,4 m,12 m,3 phòng,3 phòng,1,Đã có sổ
+"4,5 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24.5 m²,3.5 m,7 m,3 phòng,4 phòng,4,Đã có sổ
+4 tỷ,"Đường Tân Hiệp 6, Xã Tân Hiệp, Huyện Hóc Môn, Tp Hồ Chí Minh","Nhà ngõ, hẻm",102 m²,6 m,17 m,4 phòng,3 phòng,N/A,Đã có sổ
+"14,5 tỷ","Đường Phù Đổng Thiên Vương, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",70 m²,N/A,N/A,2 phòng,N/A,N/A,Đã có sổ
+"4,19 tỷ","Đường Trần Bình Trọng, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68.8 m²,4.3 m,16 m,4 phòng,4 phòng,3,Đã có sổ
+"3,86 tỷ","Đường Phan Văn Trị, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56 m²,4 m,14 m,4 phòng,N/A,N/A,Đã có sổ
+"2,96 tỷ","Đường Hồng Bàng, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,4 m,12.6 m,3 phòng,3 phòng,1,Đã có sổ
+"22,5 tỷ","Đường Nguyễn Chí Thanh, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",54 m²,3.6 m,16 m,8 phòng,Nhiều hơn 6 phòng,5,Đã có sổ
+"12,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,56 m²,4 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+15 tỷ,"Huỳnh Mẫn Đạt Phường 2, Quận 5, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",49 m²,3.8 m,13 m,2 phòng,N/A,2,Đã có sổ
+"21,8 tỷ","97, Đường Đỗ Ngọc Thạnh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",78 m²,4.2 m,18 m,6 phòng,Nhiều hơn 6 phòng,6,Đã có sổ
+"16,5 tỷ","Đường Nguyễn Tri Phương, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",45 m²,4.4 m,11 m,7 phòng,6 phòng,6,Đã có sổ
+"13,4 tỷ","Đường Trần Hưng Ðạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",64 m²,4 m,16 m,4 phòng,4 phòng,3,Đã có sổ
+70 tỷ,"Đường Trần Hưng Đạo, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",187 m²,8.5 m,22 m,8 phòng,Nhiều hơn 6 phòng,N/A,Đã có sổ
+"14,8 tỷ","Hàm Tử, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",70.93 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"14,5 tỷ","Đường Nguyễn Biểu, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",39 m²,3.3 m,12 m,10 phòng,Nhiều hơn 6 phòng,5,Đã có sổ
+"4,88 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"6,5 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",36 m²,3.3 m,11 m,1 phòng,2 phòng,2,Đã có sổ
+"10,8 tỷ",", Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,N/A,N/A,6 phòng,N/A,N/A,Đã có sổ
+"10,8 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,4 m,14 m,7 phòng,6 phòng,5,Đã có sổ
+"8,6 tỷ","Nguyễn Trãi , Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.55 m,13 m,3 phòng,4 phòng,4,Đã có sổ
+26 tỷ,"80/8, Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",140 m²,7 m,20 m,8 phòng,N/A,N/A,Đã có sổ
+"8,5 tỷ","Hẻm 249 Lê Hồng Phong, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",31 m²,3.1 m,10.5 m,3 phòng,N/A,2,Đã có sổ
+"26,5 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",75 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"4,5 tỷ","99, Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,2 phòng,N/A,2,Đã có sổ
+10 tỷ,"Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",70 m²,4.06 m,18 m,5 phòng,4 phòng,1,Đã có sổ
+"3,9 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",15 m²,3 m,5 m,3 phòng,3 phòng,N/A,Đã có sổ
+"4,33 tỷ","Đường Dương Tử Giang, Phường 12, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,28 m²,4 m,7 m,3 phòng,N/A,N/A,Đã có sổ
+"1,2 tỷ","Phú Bằng, Xã An Linh, Huyện Phú Giáo, Bình Dương",N/A,945.7 m²,10 m,82 m,N/A,N/A,N/A,Đã có sổ
+"3,86 tỷ","Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+10 tỷ,"Hẻm 565 Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.3 m,13 m,5 phòng,N/A,4,Đã có sổ
+104 tỷ,"Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",235 m²,N/A,N/A,8 phòng,N/A,N/A,Đã có sổ
+"4,1 tỷ","Đường Phạm Hữu Chí, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51.5 m²,5.1 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"4,3 tỷ","Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3.8 m,7 m,3 phòng,4 phòng,5,Đã có sổ
+14 tỷ,"Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",100 m²,4 m,25 m,7 phòng,6 phòng,4,Đã có sổ
+"3,69 tỷ","Đường Nguyễn Trãi, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"12,8 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,4 m,13 m,5 phòng,4 phòng,4,Đã có sổ
+12 tỷ,"Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,4 m,15 m,4 phòng,N/A,N/A,Đã có sổ
+"9,8 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,4.2 m,12 m,4 phòng,4 phòng,4,Đã có sổ
+"10,5 tỷ","247, Đường Nguyễn Văn Linh, Phường Phúc Đồng, Quận Long Biên, Hà Nội",Nhà phố liền kề,50 m²,9 m,N/A,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,7,Đã có sổ
+"8,5 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",27 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"8,699 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,4.4 m,11 m,3 phòng,3 phòng,2,Đã có sổ
+"3,28 tỷ","Bãi Sậy, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26 m²,3 m,9 m,4 phòng,3 phòng,4,Đã có sổ
+"10,8 tỷ","Hẻm 565 Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.3 m,13 m,5 phòng,6 phòng,5,Đã có sổ
+"16,5 tỷ","Cầu Nguyễn Tri Phương, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",44 m²,N/A,N/A,8 phòng,6 phòng,N/A,Đã có sổ
+"4,09 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",35 m²,5 m,7 m,3 phòng,N/A,N/A,Đã có sổ
+"14,3 tỷ","Đường Nguyễn Tri Phương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",88 m²,4.2 m,21 m,4 phòng,N/A,2,Đã có sổ
+"12,5 tỷ","Đường Ngã Sáu Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50.6 m²,4 m,12.5 m,3 phòng,5 phòng,5,Đã có sổ
+"9,9 tỷ","565/30, Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.4 m,13 m,5 phòng,6 phòng,N/A,Đã có sổ
+"9,8 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",32 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"14,2 tỷ","Đường An Dương Vương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17.05 m,4 phòng,N/A,3,Đã có sổ
+"3,8 tỷ","Đường Nguyễn Văn Cừ, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",72 m²,5 m,17 m,3 phòng,2 phòng,2,Đã có sổ
+"4,21 tỷ","Đường Trần Hưng Đạo, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,71 m²,5 m,14.2 m,6 phòng,N/A,N/A,Đã có sổ
+"8,6 tỷ","nguyễn cảnh chân , Phường 2, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,42 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"3,85 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3 m,7 m,2 phòng,2 phòng,4,Đã có sổ
+"16,35 tỷ","01, Phố Hoàng Minh Giám, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",N/A,N/A,N/A,N/A,3 phòng,3 phòng,N/A,Sổ hồng riêng
+21 tỷ,"Đường Nguyễn Duy Dương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,5 m,21 m,8 phòng,6 phòng,6,Đã có sổ
+"3,65 tỷ","Đường Phan Văn Hớn, Xã Bà Điểm, Huyện Hóc Môn, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,3 phòng,2 phòng,2,Đã có sổ
+"5,8 tỷ","Đường Nguyễn Trãi, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",33 m²,3.2 m,11 m,3 phòng,4 phòng,4,Đã có sổ
+"5,7 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",31 m²,3 m,10.5 m,4 phòng,3 phòng,N/A,Đã có sổ
+"7,6 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",38 m²,3 m,13 m,5 phòng,6 phòng,5,Đã có sổ
+17 tỷ,"Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",76 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"5,3 tỷ","Đường Trần Phú, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",33 m²,3.3 m,10 m,7 phòng,4 phòng,4,Đã có sổ
+"27,3 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",76 m²,4 m,19 m,2 phòng,2 phòng,2,Đã có sổ
+"4,3 tỷ","Đường Bến Mễ Cốc, Phường 15, Quận 8, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40.4 m²,3.6 m,11 m,4 phòng,3 phòng,3,Đã có sổ
+"5,8 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",22.3 m²,2.7 m,9 m,4 phòng,3 phòng,3,Đã có sổ
+40 tỷ,"Đường Trần Phú, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",121 m²,4.5 m,27 m,nhiều hơn 10 phòng,N/A,N/A,Đã có sổ
+"6,2 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21.8 m²,N/A,N/A,4 phòng,4 phòng,3,Đã có sổ
+"3,1 tỷ","Đường Cao Đạt, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,5 m,13.5 m,4 phòng,4 phòng,2,Đã có sổ
+"10,6 tỷ","Đường Trần Bình, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56.6 m²,4 m,12.6 m,4 phòng,5 phòng,4,Đã có sổ
+"4,5 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3.5 m,7 m,3 phòng,4 phòng,4,Đã có sổ
+"7,9 tỷ","Đường An Dương Vương, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,3.2 m,18 m,4 phòng,4 phòng,4,Đã có sổ
+"27,5 tỷ","Đường Ngô Quyền, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",82 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"9,45 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43.2 m²,3.6 m,12 m,3 phòng,4 phòng,4,Đã có sổ
+"8,2 tỷ","Đường Huỳnh Mẫn Đạt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",31 m²,3.1 m,11.5 m,4 phòng,4 phòng,4,Đã có sổ
+"5,88 tỷ","Hẻm 92 Huỳnh Mẫn Đạt, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3.5 m,7 m,2 phòng,2 phòng,2,Đã có sổ
+"3,98 tỷ","Đường Phùng Hưng, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53.5 m²,5.3 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+5 triệu/tháng,"78, Đường Khánh Hội, Phường 4, Quận 4, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"4,95 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,N/A,4,Đã có sổ
+"25,5 tỷ","Đường Ký Hòa, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,4.2 m,25 m,6 phòng,5 phòng,4,Đã có sổ
+"5,2 tỷ","Bán Nhà 4 Lầu Đúc BTCT Hẻm 129/nguyễn Trãi P2 Q5., Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25.5 m²,3 m,10 m,3 phòng,3 phòng,4,Đã có sổ
+"4,8 tỷ","402/68, Đường Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh","Nhà ngõ, hẻm",36 m²,3.7 m,11 m,4 phòng,3 phòng,3,Đã có sổ
+"5,8 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3.1 m,8 m,4 phòng,N/A,N/A,Đã có sổ
+"7,2 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,50 m²,4.3 m,13.3 m,3 phòng,N/A,N/A,Đã có sổ
+"4,29 tỷ","Đường Phạm Hữu Chí, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,4 m,14 m,4 phòng,N/A,4,Đã có sổ
+"12,49 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",57.4 m²,4.1 m,14 m,5 phòng,N/A,N/A,Đã có sổ
+"3,86 tỷ","Đường Phan Văn Trị, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"23,5 tỷ","Ngô Quyền, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"4,4 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",23 m²,2.9 m,10.5 m,2 phòng,2 phòng,3,Đã có sổ
+"1,85 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,4 m,9.5 m,2 phòng,2 phòng,2,Đã có sổ
+"5,18 tỷ","Đường Số 20, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,3.87 m,11.19 m,2 phòng,3 phòng,N/A,Đã có sổ
+"4,95 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",24 m²,3 m,8 m,4 phòng,N/A,N/A,Đã có sổ
+"9,9 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",32 m²,N/A,N/A,2 phòng,3 phòng,4,Đã có sổ
+"10,8 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",53 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"9,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",46 m²,3.68 m,12.8 m,3 phòng,4 phòng,4,Đã có sổ
+15 tỷ,"242, Đường Đỗ Ngọc Thạnh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",38.5 m²,3.5 m,11 m,6 phòng,5 phòng,5,Đã có sổ
+8 tỷ,"Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45.5 m²,3.5 m,13 m,6 phòng,4 phòng,4,Đã có sổ
+"4,2 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",36.5 m²,4.1 m,9 m,2 phòng,2 phòng,3,Đã có sổ
+"3,6 triệu/tháng","25/18, đất thánh, Phường 6, Quận Tân Bình, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"4,05 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",18 m²,3.5 m,6 m,3 phòng,4 phòng,4,Đã có sổ
+"3,68 tỷ","Đường Phạm Đôn, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,5 phòng,3,Đã có sổ
+"1,86 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,4 m,11.5 m,2 phòng,2 phòng,2,Đã có sổ
+"6,5 tỷ","Đường An Điềm, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,3.8 m,12 m,2 phòng,2 phòng,N/A,Đã có sổ
+"5,6 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",32 m²,3.2 m,10 m,3 phòng,4 phòng,4,Đã có sổ
+"4,95 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",28 m²,3.5 m,8 m,4 phòng,N/A,4,Đã có sổ
+"4,15 tỷ","Trần Phú, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",62.4 m²,4.8 m,13 m,4 phòng,N/A,N/A,Đã có sổ
+"3,25 tỷ","Nguyễn Như Hạnh, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",N/A,60 m²,4 m,15 m,N/A,N/A,N/A,Đã có sổ
+"2,8 tỷ","k 183 tô hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",N/A,115 m²,6.1 m,N/A,N/A,N/A,N/A,Đã có sổ
+"9,45 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45 m²,3.6 m,13 m,3 phòng,3 phòng,4,Đã có sổ
+"4,1 tỷ","Đường Võ Văn Kiệt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",28 m²,3.5 m,8 m,2 phòng,2 phòng,N/A,Đã có sổ
+"4,1 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",19 m²,3.5 m,7 m,3 phòng,3 phòng,N/A,Đã có sổ
+"13,5 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,3.8 m,13 m,4 phòng,4 phòng,4,Đã có sổ
+"1,5 tỷ","873, Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",12 m²,3 m,4 m,1 phòng,1 phòng,N/A,Sổ chung / công chứng vi bằng
+"5,1 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",29 m²,3.1 m,9.5 m,3 phòng,N/A,N/A,Đã có sổ
+35 tỷ,"15, Đường Nguyễn Thi, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",130 m²,3.7 m,35 m,4 phòng,4 phòng,3,Đã có sổ
+"31,5 tỷ","Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,5 m,20 m,3 phòng,N/A,N/A,Đã có sổ
+"2,3 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"4,18 tỷ","Đường Bùi Hữu Nghĩa, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51.6 m²,5.1 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"7,2 tỷ","An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,5 m,11 m,3 phòng,4 phòng,3,Đã có sổ
+"2,25 tỷ","Đường Nguyễn Trãi, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",11 m²,N/A,N/A,3 phòng,3 phòng,2,Đã có sổ
+13 triệu/tháng,"Đường Nguyễn Thái Sơn, Phường 5, Quận Gò Vấp, Tp Hồ Chí Minh","Nhà ngõ, hẻm",42 m²,3.5 m,12 m,3 phòng,3 phòng,2,Đã có sổ
+"6,6 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3.6 m,7 m,2 phòng,3 phòng,N/A,Đã có sổ
+"16,5 tỷ","Đường Nguyễn Tri Phương, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",44 m²,4.5 m,11 m,7 phòng,6 phòng,6,Đã có sổ
+"3,18 tỷ","Hem 977/5 Trần Hung Đạo , Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",16.2 m²,3 m,6 m,3 phòng,2 phòng,N/A,Đã có sổ
+"3,95 tỷ","HẺM ĐẸP 1 XẸT SÁT MẶT TIỀN, TRẦN PHÚ, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3 m,7 m,2 phòng,2 phòng,2,Đã có sổ
+"2,32 tỷ","Đường Bà Triệu, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,5 phòng,N/A,3,Đã có sổ
+"4,83 tỷ","Đường Ngô Gia Tự, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"10,299 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,3.8 m,14 m,7 phòng,5 phòng,5,Đã có sổ
+"18,35 tỷ","Đường An Dương Vương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",66 m²,4.4 m,17 m,2 phòng,1 phòng,2,Đã có sổ
+26 tỷ,"Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",75 m²,4 m,19 m,8 phòng,Nhiều hơn 6 phòng,3,Đã có sổ
+9 tỷ,"Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,5 m,12 m,3 phòng,N/A,2,Đã có sổ
+"3,18 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",18 m²,3 m,6 m,3 phòng,2 phòng,N/A,Đã có sổ
+"2,38 tỷ","Bình Tiên, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",16 m²,2.5 m,7 m,2 phòng,1 phòng,2,Đã có sổ
+"2,5 tỷ","Đường Ngô Gia Tự, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"3,89 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,5 phòng,6 phòng,3,Đã có sổ
+"5,8 tỷ","Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",54.7 m²,5 m,11 m,2 phòng,2 phòng,3,Đã có sổ
+"14,5 tỷ","Đường Nguyễn Biểu, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",40 m²,3.3 m,12 m,10 phòng,Nhiều hơn 6 phòng,N/A,Đã có sổ
+"11,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,58 m²,N/A,N/A,2 phòng,N/A,4,Đã có sổ
+"9,7 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,4 m,13 m,4 phòng,3 phòng,N/A,Đã có sổ
+"7,5 tỷ","Đường Đỗ Ngọc Thạnh, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,3.4 m,11 m,5 phòng,5 phòng,4,Đã có sổ
+"7,2 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.3 m,13 m,4 phòng,3 phòng,3,Đã có sổ
+"6,3 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,3 phòng,4 phòng,4,Đã có sổ
+12 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,60 m²,4 m,15 m,5 phòng,N/A,5,Đã có sổ
+"11,7 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56 m²,4 m,14 m,4 phòng,5 phòng,5,Đã có sổ
+9 tỷ,"Đường Nguyễn Văn Cừ, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,5 m,10 m,3 phòng,N/A,N/A,Đã có sổ
+"9,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",47 m²,3.6 m,13 m,3 phòng,4 phòng,4,Đã có sổ
+"4,5 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24.5 m²,3.5 m,7 m,3 phòng,3 phòng,4,Đã có sổ
+14 tỷ,"Đường Nguyễn Biểu, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",39 m²,3.3 m,12 m,10 phòng,Nhiều hơn 6 phòng,5,Đã có sổ
+"4,2 tỷ","Đường Cao Đạt, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,68.8 m²,4.3 m,16 m,4 phòng,N/A,N/A,Đã có sổ
+"2,3 tỷ","Đường Trần Phú, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",15 m²,3 m,5 m,1 phòng,2 phòng,2,Đã có sổ
+"9,2 tỷ","An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,3.7 m,10 m,5 phòng,5 phòng,5,Đã có sổ
+"6,1 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45 m²,N/A,N/A,2 phòng,2 phòng,2,Đã có sổ
+10 tỷ,"Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",30 m²,N/A,N/A,6 phòng,6 phòng,N/A,Đã có sổ
+12 tỷ,"Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48.1 m²,N/A,N/A,2 phòng,N/A,3,Đã có sổ
+"7,5 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",27 m²,3 m,9 m,3 phòng,4 phòng,N/A,Đã có sổ
+"6,3 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",32 m²,3 m,11 m,3 phòng,3 phòng,3,Đã có sổ
+"9,8 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,4.4 m,13 m,6 phòng,4 phòng,4,Đã có sổ
+"4,99 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",34 m²,3.2 m,11 m,3 phòng,3 phòng,3,Đã có sổ
+"19,5 tỷ","Trần Bình Trọng, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",63 m²,8 m,8 m,4 phòng,4 phòng,5,Đã có sổ
+4 tỷ,"Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",15.6 m²,3.5 m,5 m,3 phòng,4 phòng,4,Đã có sổ
+21 tỷ,"Đường Võ Văn Kiệt, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",136 m²,N/A,N/A,2 phòng,N/A,N/A,Đã có sổ
+"7,59 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",38 m²,3 m,13.8 m,6 phòng,N/A,5,Đã có sổ
+"12,499 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,3.7 m,13 m,3 phòng,2 phòng,3,Đã có sổ
+"5,9 triệu/tháng","Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,1 phòng,1 phòng,N/A,Hợp đồng đặt cọc
+"1,85 tỷ","22/43, Đường Nguyễn Thời Trung, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",14.4 m²,3.1 m,4.65 m,2 phòng,1 phòng,3,Đã có sổ
+"2,95 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,2 phòng,2 phòng,2,Đã có sổ
+"3,18 tỷ","Hẻm 977/5 Trần Hưng Đạo , Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",16.2 m²,3 m,6 m,3 phòng,2 phòng,N/A,Đã có sổ
+"3,89 tỷ","Đường Phước Hưng, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,4.5 m,11 m,4 phòng,4 phòng,2,Đã có sổ
+"10,599 tỷ","Đường Trần Bình Trọng, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",57 m²,4 m,12.6 m,4 phòng,5 phòng,4,Đã có sổ
+"15,5 tỷ","Đường Phù Đổng Thiên Vương, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",72 m²,4 m,18 m,3 phòng,2 phòng,N/A,Đã có sổ
+"6,8 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25.5 m²,3.35 m,8.5 m,2 phòng,3 phòng,N/A,Đã có sổ
+"12,8 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",62 m²,4 m,16 m,4 phòng,4 phòng,4,Đã có sổ
+"7,6 tỷ","Đường Võ Văn Kiệt, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45.3 m²,3.8 m,13 m,3 phòng,4 phòng,3,Đã có sổ
+"6,8 tỷ","Võ Trường Toản, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",33.8 m²,3.1 m,13 m,4 phòng,5 phòng,5,Đã có sổ
+"9,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,3.5 m,12 m,5 phòng,6 phòng,5,Đã có sổ
+"1,95 tỷ","718/3/, Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",18 m²,3.3 m,6 m,2 phòng,1 phòng,N/A,Đã có sổ
+"10,799 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,3.8 m,14 m,9 phòng,Nhiều hơn 6 phòng,5,Đã có sổ
+"12,5 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"11,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,4 m,14.5 m,4 phòng,4 phòng,2,Đã có sổ
+"7,43 tỷ","Đường Tỉnh lộ 10, Phường Bình Trị Đông B, Quận Bình Tân, Tp Hồ Chí Minh",Nhà phố liền kề,76 m²,4 m,19 m,4 phòng,3 phòng,N/A,Đã có sổ
+"8,5 tỷ","Đường Phan Huy Chú, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",47 m²,N/A,N/A,6 phòng,6 phòng,N/A,Đã có sổ
+"1,85 tỷ","22/43, Đường Nguyễn Thời Trung, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",14.6 m²,3.15 m,4.65 m,2 phòng,1 phòng,3,Đã có sổ
+"4,88 tỷ","Đường Nguyễn Biểu, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"22,3 tỷ","Đường Trần Hưng Đạo, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",120 m²,5 m,23 m,3 phòng,3 phòng,2,Đã có sổ
+"5,05 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26 m²,3.1 m,9.5 m,2 phòng,3 phòng,3,Đã có sổ
+"5,8 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,3 phòng,3 phòng,5,Đã có sổ
+"8,1 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,4 m,12 m,3 phòng,3 phòng,2,Đã có sổ
+"15,5 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,4 m,25 m,2 phòng,2 phòng,N/A,Đã có sổ
+"7,888 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"3,9 tỷ","Đường Nguyễn Trãi, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,4 m,12 m,3 phòng,3 phòng,1,Đã có sổ
+"3,98 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20.1 m²,N/A,N/A,2 phòng,N/A,N/A,Đã có sổ
+15 tỷ,"Phan van tri, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",41 m²,3.5 m,12 m,5 phòng,5 phòng,N/A,Đã có sổ
+"9,45 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,3 m,17 m,4 phòng,4 phòng,5,Đã có sổ
+"14,9 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",91 m²,7.8 m,N/A,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,N/A,Đã có sổ
+"6,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,23 m²,N/A,N/A,3 phòng,N/A,3,Đã có sổ
+"2,3 tỷ","Đại Dương, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",N/A,N/A,N/A,N/A,1 phòng,1 phòng,N/A,Sổ hồng riêng
+"7,6 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,3 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+"11,5 tỷ","172, Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",36 m²,3 m,12 m,4 phòng,3 phòng,4,Đã có sổ
+"5,88 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3.1 m,9 m,3 phòng,3 phòng,5,Đã có sổ
+"5,35 tỷ","Trần Phú, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",33.8 m²,3.3 m,10 m,9 phòng,4 phòng,4,Đã có sổ
+"4,3 tỷ","Đường Nguyễn Biểu, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,70 m²,5 m,14 m,4 phòng,N/A,N/A,Đã có sổ
+"11,8 tỷ","Đường Ký Hòa, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",52 m²,N/A,N/A,2 phòng,N/A,N/A,Đã có sổ
+"3,6 tỷ","Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,4 m,5 m,2 phòng,1 phòng,2,Đã có sổ
+16 tỷ,"Đường Võ Văn Kiệt, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",51 m²,5.2 m,10.5 m,5 phòng,N/A,5,Đã có sổ
+"3,59 tỷ","Đường Tản Đà, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,5 phòng,3,Đã có sổ
+"17,5 tỷ","Phạm Đôn, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",75 m²,N/A,N/A,6 phòng,N/A,6,Đã có sổ
+"4,9 tỷ","Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",35 m²,2.8 m,13.5 m,4 phòng,3 phòng,N/A,Đã có sổ
+"2,05 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3.2 m,6.3 m,2 phòng,1 phòng,2,Đã có sổ
+29 tỷ,"Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",80 m²,4.5 m,18 m,6 phòng,Nhiều hơn 6 phòng,7,Đã có sổ
+"1,7 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",11.2 m²,3.5 m,3.5 m,3 phòng,2 phòng,3,Đã có sổ
+"4,33 tỷ","Đường Nguyễn Trãi, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,73 m²,5 m,14 m,4 phòng,N/A,N/A,Đã có sổ
+"4,2 tỷ","Phạm Văn Chí, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",20 m²,3 m,8 m,2 phòng,N/A,N/A,Đã có sổ
+"3,98 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,3.2 m,6 m,2 phòng,3 phòng,3,Đã có sổ
+"4,98 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,44 m²,4 m,11 m,4 phòng,4 phòng,3,Đã có sổ
+"3,5 tỷ","Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,2 phòng,2 phòng,2,Đã có sổ
+"4,9 tỷ","Đường Huỳnh Mẫn Đạt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50.5 m²,5 m,10.1 m,3 phòng,4 phòng,2,Đã có sổ
+"3,18 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",18 m²,3 m,6 m,3 phòng,2 phòng,3,Đã có sổ
+"20,5 tỷ","Đường Hùng Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",57 m²,3.75 m,15 m,5 phòng,5 phòng,5,Đã có sổ
+"5,7 tỷ","Đường Bình Tiên, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",35 m²,3.5 m,9.5 m,2 phòng,1 phòng,2,Đã có sổ
+"18,35 tỷ","Đường An Dương Vương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",66 m²,N/A,N/A,2 phòng,1 phòng,N/A,Đã có sổ
+11 tỷ,"Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.3 m,13 m,4 phòng,6 phòng,4,Đã có sổ
+"3,26 tỷ","Đường Nguyễn Văn Đừng, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,3 phòng,3 phòng,3,Đã có sổ
+"7,5 triệu/tháng","Đường Cách Mạng Tháng 8, Phường 10, Quận Tân Bình, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,2 phòng,1 phòng,N/A,Hợp đồng đặt cọc
+"4,58 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20.1 m²,2.5 m,8 m,3 phòng,3 phòng,3,Đã có sổ
+"11,7 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",64 m²,4 m,16 m,4 phòng,3 phòng,4,Đã có sổ
+27 tỷ,"545 Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",80 m²,4 m,20 m,4 phòng,3 phòng,3,Đã có sổ
+15 tỷ,"Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",40 m²,3.6 m,12 m,4 phòng,4 phòng,5,Đã có sổ
+"5,98 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3.7 m,8 m,4 phòng,3 phòng,3,Đã có sổ
+"16,5 tỷ","Đường Bùi Hữu Nghĩa, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,5 phòng,6 phòng,5,Đã có sổ
+30 tỷ,"Đường An Dương Vương, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",78 m²,4 m,20 m,6 phòng,N/A,N/A,Đã có sổ
+"2,745 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",15 m²,N/A,N/A,2 phòng,2 phòng,N/A,Đã có sổ
+12 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,4 m,13.5 m,4 phòng,4 phòng,4,Đã có sổ
+"4,88 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,2.8 m,7.5 m,5 phòng,N/A,N/A,Đã có sổ
+"2,5 tỷ","Đường Bùi Hữu Nghĩa, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,N/A,N/A,3 phòng,4 phòng,N/A,Đã có sổ
+"3,66 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",67.5 m²,4.5 m,15 m,4 phòng,5 phòng,4,Đã có sổ
+"15,9 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",94.6 m²,4.3 m,22 m,6 phòng,N/A,N/A,Đã có sổ
+"4,45 tỷ","Đường Hà Tôn Quyền, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",59.2 m²,5.9 m,10 m,5 phòng,6 phòng,2,Đã có sổ
+"3,75 tỷ","Đường An Điềm, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"6,58 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,3.6 m,15 m,3 phòng,4 phòng,3,Đã có sổ
+"4,78 tỷ","Đường Cao Đạt, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,52 m²,4 m,13 m,5 phòng,4 phòng,3,Đã có sổ
+15 tỷ,"Đường Võ Văn Kiệt, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",47 m²,15 m,N/A,5 phòng,N/A,5,Đã có sổ
+"3,3 tỷ","Đường Trịnh Hoài Đức, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,3 phòng,3 phòng,3,Đã có sổ
+"3,18 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",16 m²,2.7 m,6 m,3 phòng,N/A,3,Đã có sổ
+"4,1 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",16 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"4,76 tỷ","Đường Bạch Vân, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,3 phòng,2,Đã có sổ
+"9,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",46 m²,3.65 m,12.8 m,3 phòng,3 phòng,3,Đã có sổ
+"11,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,4 m,14.5 m,4 phòng,4 phòng,3,Đã có sổ
+"3,9 tỷ","Đường Dương Tử Giang, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",57.6 m²,5.7 m,11 m,5 phòng,6 phòng,3,Đã có sổ
+"14,7 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",44 m²,4 m,11 m,6 phòng,4 phòng,5,Đã có sổ
+"6,499 tỷ","Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25 m²,3.5 m,7.5 m,3 phòng,3 phòng,4,Đã có sổ
+26 tỷ,"Đường Nguyễn Duy Dương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",64 m²,4 m,16 m,7 phòng,N/A,N/A,Đã có sổ
+"3,2 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21.25 m²,2.5 m,8.5 m,2 phòng,1 phòng,1,Đã có sổ
+"9,8 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",32 m²,3.2 m,11 m,2 phòng,3 phòng,4,Đã có sổ
+"8,1 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",47 m²,N/A,N/A,3 phòng,2 phòng,N/A,Đã có sổ
+900000 đ/tháng,"Đường 36, Phường Tân Quy, Quận 7, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"4,9 tỷ","Đường Quốc lộ 13, Phường Hiệp Bình Phước (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh","Nhà ngõ, hẻm",57 m²,4.3 m,13 m,2 phòng,2 phòng,2,Đã có sổ
+"2,45 tỷ","Bạch Vân, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",15 m²,2.5 m,6 m,3 phòng,4 phòng,4,Đã có sổ
+"3,98 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",40 m²,4 m,10 m,3 phòng,N/A,N/A,Đã có sổ
+"3,5 tỷ","Đường Phan Văn Trị, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",16 m²,3.3 m,5 m,2 phòng,2 phòng,2,Đã có sổ
+"28,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",78 m²,4 m,19.5 m,2 phòng,2 phòng,N/A,Đã có sổ
+"10,5 tỷ","Đường Trần Bình Trọng, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",57 m²,4 m,13 m,4 phòng,5 phòng,3,Đã có sổ
+8 triệu/tháng,"Đường Hoàng Hoa Thám, Phường 12, Quận Tân Bình, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,1 phòng,1 phòng,N/A,Hợp đồng đặt cọc
+5 tỷ,"Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,2 phòng,2 phòng,N/A,Đã có sổ
+230 tỷ,"Đường Lý Thường Kiệt, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",430 m²,N/A,N/A,nhiều hơn 10 phòng,N/A,N/A,Đã có sổ
+"15,9 tỷ","Đường Nguyễn Tri Phương, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",43 m²,4.3 m,10 m,5 phòng,6 phòng,6,Đã có sổ
+22 tỷ,"Đường Hồng Bàng, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",84 m²,4 m,21 m,5 phòng,4 phòng,3,Đã có sổ
+76 tỷ,"Đường Nguyễn Văn Đừng, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",146 m²,7.9 m,18.5 m,9 phòng,N/A,9,Đã có sổ
+"4,95 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+34 tỷ,"Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",86 m²,4 m,22 m,5 phòng,5 phòng,3,Đã có sổ
+"9,8 tỷ","Đường Gia Phú, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,6 phòng,N/A,N/A,Đã có sổ
+"8,5 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",37 m²,2.5 m,12 m,4 phòng,3 phòng,4,Đã có sổ
+"7,85 tỷ","Đường An Dương Vương, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,3.2 m,18 m,5 phòng,4 phòng,4,Đã có sổ
+"2,9 tỷ","Đường Nguyễn Trãi, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,4 m,12.5 m,3 phòng,3 phòng,1,Đã có sổ
+"4,25 tỷ","Đường Phạm Hữu Chí, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53.75 m²,4.3 m,12.5 m,4 phòng,4 phòng,N/A,Đã có sổ
+12 tỷ,"Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",18 m²,N/A,N/A,5 phòng,4 phòng,6,Đã có sổ
+"6,2 tỷ","Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",20 m²,N/A,N/A,5 phòng,3 phòng,4,Đã có sổ
+"5,68 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",24 m²,3 m,8 m,3 phòng,3 phòng,4,Đã có sổ
+"30,5 tỷ","Đường Bùi Hữu Nghĩa, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",117 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"10,8 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,3.5 m,14 m,7 phòng,Nhiều hơn 6 phòng,5,Đã có sổ
+"19,5 tỷ","Đường Trần Bình Trọng, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",66 m²,7.8 m,12 m,4 phòng,4 phòng,5,Đã có sổ
+"3,6 tỷ","Đường Bến Mễ Cốc, Phường 15, Quận 8, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,4 m,11 m,2 phòng,3 phòng,2,Đã có sổ
+11 tỷ,"Nguyễn Trãi , Phường 7, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,60 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"5,8 tỷ","197, Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3.2 m,8 m,4 phòng,4 phòng,4,Đã có sổ
+15 triệu/tháng,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,Hợp đồng mua bán
+"2,85 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"10,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45 m²,3.3 m,13 m,5 phòng,6 phòng,N/A,Đã có sổ
+"15,5 tỷ","Đường Phù Đổng Thiên Vương, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",66 m²,N/A,N/A,3 phòng,N/A,2,Đã có sổ
+19 tỷ,"Đường Tạ Quang Bửu, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",78 m²,4 m,19.5 m,6 phòng,5 phòng,5,Đã có sổ
+"9,55 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53 m²,4 m,13.2 m,4 phòng,4 phòng,4,Đã có sổ
+"5,1 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",27 m²,3.1 m,9 m,2 phòng,N/A,N/A,Đã có sổ
+"9,5 tỷ","trần hưng đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56.32 m²,4.4 m,13 m,5 phòng,N/A,5,Đã có sổ
+"10,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,43 m²,4 m,12 m,4 phòng,N/A,N/A,Đã có sổ
+"29,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",72.2 m²,3.9 m,18.5 m,3 phòng,3 phòng,3,Đã có sổ
+"4,7 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,2.75 m,7.45 m,5 phòng,3 phòng,4,Đã có sổ
+"15,9 tỷ","83, Đường Phạm Hữu Chí, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",38 m²,3.7 m,11 m,5 phòng,6 phòng,4,Đã có sổ
+11 tỷ,"Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,4 m,15 m,3 phòng,3 phòng,4,Đã có sổ
+"4,7 tỷ","Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",22 m²,2.8 m,7.7 m,3 phòng,3 phòng,N/A,Đã có sổ
+"15,5 tỷ","Đường Võ Văn Kiệt, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",50 m²,15 m,5.6 m,5 phòng,5 phòng,5,Đã có sổ
+"41,5 tỷ","95, Đường Nguyễn Thi, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",85 m²,5 m,17 m,5 phòng,4 phòng,3,Đã có sổ
+"5,3 tỷ","Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,N/A,12 m,3 phòng,3 phòng,3,Đã có sổ
+17 tỷ,"Đường Nguyễn Tri Phương, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",44 m²,4.3 m,11 m,7 phòng,6 phòng,5,Đã có sổ
+17 tỷ,"Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",76 m²,4.7 m,16 m,4 phòng,4 phòng,4,Đã có sổ
+"1,34 tỷ","Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,2 phòng,3 phòng,N/A,Đã có sổ
+"23,5 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",60 m²,4 m,15 m,nhiều hơn 10 phòng,N/A,6,Đã có sổ
+"13,8 tỷ","Đường Nguyễn Trãi, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",71.4 m²,4.2 m,17 m,6 phòng,N/A,N/A,Đã có sổ
+"16,4 tỷ","Đường Nguyễn Tri Phương, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",45 m²,4.5 m,10 m,8 phòng,6 phòng,5,Đã có sổ
+"4,9 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,3 m,13 m,3 phòng,N/A,N/A,Đã có sổ
+"7,8 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",29 m²,N/A,N/A,4 phòng,3 phòng,3,Đã có sổ
+"10,8 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,4 m,14 m,7 phòng,N/A,N/A,Đã có sổ
+17 tỷ,"Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",76 m²,4.7 m,16 m,4 phòng,5 phòng,4,Đã có sổ
+"2,75 tỷ","Đường Trần Bình Trọng, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25 m²,N/A,N/A,4 phòng,4 phòng,3,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,4 m,14 m,5 phòng,5 phòng,N/A,Đã có sổ
+"3,5 tỷ","Đường Phan Văn Trị, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"14,3 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",91 m²,7.6 m,11 m,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,4,Đã có sổ
+"3,5 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",22 m²,3.2 m,7 m,2 phòng,2 phòng,2,Đã có sổ
+24 tỷ,"Đường Vũ Chí Hiếu, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",80 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"14,8 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",83 m²,7.6 m,N/A,nhiều hơn 10 phòng,N/A,N/A,Đã có sổ
+"6,3 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",32 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"16,2 tỷ","Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,6 phòng,6 phòng,5,Đã có sổ
+21 tỷ,"Đường Ký Hòa, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",83 m²,4 m,21 m,8 phòng,N/A,N/A,Đã có sổ
+"12,5 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"13,5 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",84 m²,4 m,21 m,4 phòng,5 phòng,4,Đã có sổ
+"2,95 tỷ","Đường Ngô Nhân Tịnh, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",15 m²,3 m,5 m,2 phòng,2 phòng,3,Đang chờ sổ
+"2,95 tỷ","Đường Nguyễn Trãi, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,3 phòng,4,Đã có sổ
+"4,25 tỷ","Đường Đặng Thái Thân, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"3,98 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26.9 m²,4.5 m,6 m,2 phòng,2 phòng,3,Đã có sổ
+"5,95 tỷ","Đường Phan Xích Long, Phường 4, Quận Phú Nhuận, Tp Hồ Chí Minh","Nhà ngõ, hẻm",36 m²,4.5 m,7 m,3 phòng,3 phòng,2,Đã có sổ
+"3,05 tỷ","Đường Nguyễn Văn Đừng, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,2 m,10 m,2 phòng,3 phòng,1,Đã có sổ
+"6,45 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3.6 m,7 m,2 phòng,3 phòng,4,Đã có sổ
+"3,98 tỷ","Trần hưng đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",17 m²,3.2 m,6 m,2 phòng,2 phòng,3,Đã có sổ
+"2,285 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",12 m²,3 m,4 m,1 phòng,2 phòng,N/A,Đã có sổ
+11 tỷ,"Đường Tân Hưng, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,3 phòng,3 phòng,3,Đã có sổ
+"13,9 tỷ","Đường Trần Bình Trọng, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",75.6 m²,4.2 m,18 m,6 phòng,N/A,N/A,Đã có sổ
+6 tỷ,"Đường Kha Vạn Cân, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,6.5 m,10.4 m,6 phòng,6 phòng,4,Đã có sổ
+"4,55 tỷ","Đường Trần Xuân Hòa, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,72 m²,5 m,14.4 m,6 phòng,N/A,N/A,Đã có sổ
+"13,8 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,67 m²,N/A,N/A,3 phòng,N/A,3,Đã có sổ
+"6,8 tỷ","Đường An Dương Vương, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",38 m²,3.5 m,14 m,4 phòng,5 phòng,3,Đã có sổ
+15 tỷ,"Hẻm 138 Nguyễn Trãi. chợ Bàu Sen, Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",72 m²,3.45 m,19.4 m,3 phòng,3 phòng,4,Đã có sổ
+750 triệu,"DT833B, Xã Long Hiệp, Huyện Bến Lức, Long An","Nhà mặt phố, mặt tiền",100 m²,5 m,20 m,3 phòng,2 phòng,1,Đã có sổ
+"3,98 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26 m²,3.5 m,6 m,2 phòng,N/A,4,Đã có sổ
+"3,1 tỷ","Đường Phùng Hưng, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53.5 m²,5.3 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"6,9 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,4 m,11 m,3 phòng,4 phòng,4,Đã có sổ
+"4,9 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",38 m²,2.8 m,13.5 m,4 phòng,3 phòng,3,Đã có sổ
+"3,98 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68.5 m²,5.3 m,15 m,4 phòng,5 phòng,2,Đã có sổ
+"7,5 tỷ","Đường Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",81 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+15 tỷ,"Đường Đỗ Ngọc Thạnh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",32 m²,3.5 m,10 m,4 phòng,N/A,5,Đã có sổ
+"12,9 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",64 m²,4.3 m,15 m,4 phòng,4 phòng,N/A,Đã có sổ
+"8,3 tỷ","Đường An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,N/A,N/A,2 phòng,N/A,N/A,Đã có sổ
+"10,6 tỷ","Đường Trần Bình Trọng, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",57 m²,4 m,12.6 m,4 phòng,4 phòng,5,Đã có sổ
+"8,2 tỷ","161/, Đường Bùi Hữu Nghĩa, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",37 m²,5.1 m,7.3 m,4 phòng,2 phòng,4,Đã có sổ
+"3,91 tỷ","Đường Bùi Hữu Nghĩa, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,64.4 m²,4.6 m,14 m,4 phòng,3 phòng,N/A,Đã có sổ
+"2,85 tỷ","Đường Nguyễn Trãi, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",64 m²,N/A,N/A,4 phòng,N/A,N/A,Không có sổ
+"4,58 tỷ","Đường Nghĩa Thục, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,5 phòng,5 phòng,3,Đã có sổ
+27 tỷ,"Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",128 m²,5.6 m,23 m,6 phòng,N/A,N/A,Đã có sổ
+"4,8 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,N/A,N/A,2 phòng,N/A,N/A,Đã có sổ
+"3,6 tỷ","Đường Triệu Quang Phục, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,N/A,N/A,4 phòng,5 phòng,3,Đã có sổ
+"5,6 tỷ","Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",32 m²,5.5 m,6 m,3 phòng,3 phòng,3,Đã có sổ
+"8,5 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",27 m²,3 m,9 m,3 phòng,N/A,4,Đã có sổ
+"4,25 tỷ","phan văn trị, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58.05 m²,4.3 m,13.5 m,4 phòng,4 phòng,N/A,Đã có sổ
+500 triệu,"Thôn tây Hoàng, Thôn Tây Hoàng, Xã Quảng Thái, Huyện Quảng Điền, Thừa Thiên Huế",N/A,326 m²,11 m,29 m,N/A,N/A,N/A,Đã có sổ
+"12,5 tỷ","Đường Nguyễn Văn Cừ, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",128 m²,8 m,16 m,4 phòng,4 phòng,1,Đã có sổ
+11 tỷ,"Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",46 m²,3.5 m,13 m,6 phòng,5 phòng,N/A,Đã có sổ
+"3,9 tỷ","Đường Đào Tấn, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",20 m²,4 m,5 m,4 phòng,5 phòng,2,Đã có sổ
+"11,5 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",52 m²,N/A,N/A,nhiều hơn 10 phòng,N/A,N/A,Đã có sổ
+"2,25 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,2 m,5 m,3 phòng,3 phòng,3,Đã có sổ
+"13,199 tỷ","Đường An Dương Vương, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55.3 m²,4.1 m,13.5 m,4 phòng,4 phòng,3,Đã có sổ
+"9,5 tỷ","an dương vương, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,33 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+29 tỷ,"Đường Trần Phú, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",84 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"12,5 tỷ","Đường An Dương Vương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",49.5 m²,3.8 m,13 m,3 phòng,4 phòng,4,Đã có sổ
+"3,18 tỷ","Hẻm 977/5 Trần Hưng Đạo , Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",16.2 m²,2.7 m,6 m,3 phòng,2 phòng,3,Đã có sổ
+"5,5 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+750 triệu,"Lê Lai , Phường Hoà Phú, Thành phố Thủ Dầu Một, Bình Dương",Nhà phố liền kề,60 m²,5 m,12 m,3 phòng,3 phòng,3,Đang chờ sổ
+"2,45 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",47.9 m²,4 m,11.97 m,2 phòng,2 phòng,N/A,Không có sổ
+"13,5 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",80 m²,4 m,20 m,5 phòng,4 phòng,4,Đã có sổ
+"8,2 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,3.9 m,13 m,3 phòng,3 phòng,2,Đã có sổ
+"3,5 tỷ","Đường Nguyễn Trãi, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,4.2 m,11.3 m,3 phòng,3 phòng,3,Đã có sổ
+"6,3 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3 m,7.7 m,3 phòng,4 phòng,4,Đã có sổ
+37 tỷ,"Đường Hải Thượng Lãn Ông, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",66 m²,4.6 m,18 m,8 phòng,6 phòng,6,Đã có sổ
+"5,25 tỷ","Đường Đỗ Ngọc Thạnh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",65 m²,5 m,13 m,5 phòng,5 phòng,3,Đã có sổ
+"10,6 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",64 m²,4 m,16 m,4 phòng,5 phòng,4,Đã có sổ
+"4,65 tỷ","Đường Cao Đạt, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55.3 m²,5.5 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+78 tỷ,"Hùng vương , Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",172 m²,10 m,17 m,6 phòng,N/A,N/A,Đã có sổ
+"4,9 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3.1 m,10 m,2 phòng,2 phòng,3,Đã có sổ
+21 tỷ,"Đường Nguyễn Duy Dương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",80 m²,4 m,20 m,6 phòng,6 phòng,6,Đã có sổ
+"13,8 tỷ","Đường Nguyễn Trãi, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",71.4 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+11 tỷ,"Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",65 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"1,81 tỷ","Đường Nguyễn Trãi, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,2 phòng,N/A,N/A,Đã có sổ
+"3,25 tỷ","Đường Huỳnh Tấn Phát, Phường Tân Thuận Đông, Quận 7, Tp Hồ Chí Minh","Nhà ngõ, hẻm",34 m²,3.4 m,10 m,2 phòng,2 phòng,2,Đã có sổ
+"27,5 tỷ","Đường Ngô Quyền, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",88 m²,4 m,22 m,2 phòng,N/A,2,Đã có sổ
+"4,56 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"13,5 tỷ","Đường An Bình, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",66 m²,4 m,17 m,6 phòng,N/A,N/A,Đã có sổ
+80 tỷ,"Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",94 m²,4.6 m,21 m,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,6,Đã có sổ
+"1,55 tỷ","Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",18 m²,5 m,N/A,3 phòng,3 phòng,1,Đã có sổ
+"12,9 tỷ","Đường An Dương Vương, Phường 3, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,56 m²,N/A,N/A,2 phòng,N/A,2,Đã có sổ
+"2,19 tỷ","Đường Nguyễn Biểu, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+30 tỷ,"Đường Vũ Chí Hiếu, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",64 m²,4 m,16 m,5 phòng,N/A,6,Đã có sổ
+52 tỷ,"Đường An Điềm, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",124 m²,N/A,N/A,6 phòng,N/A,N/A,Đã có sổ
+"5,98 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",28.6 m²,3.65 m,8.3 m,2 phòng,3 phòng,4,Đã có sổ
+16 tỷ,"Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",75 m²,4 m,18 m,5 phòng,N/A,N/A,Đã có sổ
+9 tỷ,"Đường Nguyễn Văn Cừ, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,5 m,10 m,3 phòng,2 phòng,2,Đã có sổ
+"6,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,23 m²,N/A,N/A,1 phòng,N/A,3,Đã có sổ
+"4,5 tỷ","Đường Nguyễn Văn Cừ, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24.5 m²,3.5 m,7 m,3 phòng,N/A,N/A,Đã có sổ
+8 tỷ,"Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,3.3 m,17 m,5 phòng,4 phòng,4,Đã có sổ
+"10,9 tỷ","24/11L, Nguyễn Văn Đừng , Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,3.6 m,15.5 m,4 phòng,3 phòng,N/A,Giấy tờ viết tay
+"4,55 tỷ","Đường Đô Đốc Chấn, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh","Nhà ngõ, hẻm",57 m²,4.5 m,12 m,3 phòng,2 phòng,2,Đã có sổ
+"4,35 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,36 m²,6 m,6 m,3 phòng,N/A,N/A,Đã có sổ
+9 tỷ,"Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,3.3 m,13 m,5 phòng,6 phòng,5,Đã có sổ
+16 tỷ,"Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",74 m²,4 m,18 m,5 phòng,N/A,3,Đã có sổ
+"12,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,4.5 m,12 m,3 phòng,N/A,N/A,Đã có sổ
+"5,6 tỷ","Đường Số 13, Phường 4, Quận 4, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39.5 m²,3.3 m,11 m,5 phòng,4 phòng,4,Đã có sổ
+42 tỷ,"Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",102 m²,4 m,25 m,1 phòng,1 phòng,N/A,Đã có sổ
+"7,3 tỷ","Đường Lý Nam Đế, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",22 m²,N/A,N/A,2 phòng,2 phòng,N/A,Đã có sổ
+"1,95 tỷ","Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",19.8 m²,3.3 m,6 m,2 phòng,2 phòng,2,Đã có sổ
+"2,3 tỷ","Hồng Bàng, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"12,5 tỷ","Đường Võ Trường Toản, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",60 m²,3.8 m,16 m,5 phòng,N/A,N/A,Đã có sổ
+"8,5 tỷ","Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",47 m²,3.6 m,13 m,2 phòng,3 phòng,2,Đã có sổ
+"2,65 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",15 m²,N/A,N/A,2 phòng,N/A,N/A,Đã có sổ
+"3,24 tỷ","Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"5,2 tỷ","129/35/16, Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3.7 m,10.6 m,3 phòng,4 phòng,4,Đã có sổ
+"7,9 tỷ","An Duong Vương, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",84 m²,7 m,12 m,3 phòng,N/A,N/A,Đã có sổ
+"12,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh",Nhà biệt thự,56 m²,4 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+"3,2 tỷ","Đường Tân Hưng, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,4 m,12 m,3 phòng,3 phòng,1,Đã có sổ
+"12,5 tỷ","Đường Trần Bình Trọng, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",70 m²,4.2 m,15 m,3 phòng,3 phòng,3,Đã có sổ
+"3,98 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",17 m²,3.14 m,5.85 m,2 phòng,N/A,N/A,Đã có sổ
+12 tỷ,"180/7, Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,4 m,15 m,4 phòng,4 phòng,5,Đã có sổ
+"8,2 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,4 m,13 m,4 phòng,5 phòng,55,Đã có sổ
+25 tỷ,"Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",80 m²,4 m,20 m,5 phòng,5 phòng,5,Đã có sổ
+"3,98 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",13 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"4,75 tỷ","Bán Nhà 3 Lầu Đúc BTCT 3PN Hẻm Mạc Vân P5, Q5., Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3.2 m,7 m,3 phòng,3 phòng,3,Đã có sổ
+22 tỷ,"97, Đường Đỗ Ngọc Thạnh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",75 m²,4.2 m,18 m,7 phòng,6 phòng,N/A,Đã có sổ
+"4,8 tỷ","Đường Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,4.4 m,9 m,2 phòng,2 phòng,2,Đã có sổ
+"3,98 tỷ","Nguyễn Biểu, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",52 m²,4 m,13 m,5 phòng,N/A,N/A,Đã có sổ
+"3,86 tỷ","Đường Tân Hưng, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"1,75 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",29.6 m²,4 m,7.4 m,4 phòng,4 phòng,3,Không có sổ
+13 tỷ,"Đường Ngã Sáu Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,4 m,13.5 m,5 phòng,N/A,5,Đã có sổ
+"10,5 tỷ","Đường Nguyễn Văn Đừng, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",82 m²,3.7 m,22 m,3 phòng,2 phòng,2,Đã có sổ
+"10,8 tỷ","Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,3.5 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+"5,5 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,4 m,9 m,2 phòng,3 phòng,N/A,Đã có sổ
+"4,58 tỷ","Đường Ngô Quyền, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58.5 m²,5.8 m,10 m,5 phòng,5 phòng,2,Đã có sổ
+18 tỷ,"Nguyễn Chí Thanh, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",34 m²,4 m,9 m,3 phòng,2 phòng,34,Đã có sổ
+"4,5 triệu/tháng","Đường Thạnh Lộc 19, Phường Thạnh Lộc, Quận 12, Tp Hồ Chí Minh","Nhà ngõ, hẻm",70 m²,4 m,20 m,1 phòng,1 phòng,N/A,Đã có sổ
+"11,8 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"8,6 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,53 m²,N/A,N/A,1 phòng,N/A,2,Đã có sổ
+"11,5 tỷ","CAO ĐẠT, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",53 m²,N/A,N/A,10 phòng,N/A,N/A,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,4 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+"10,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",43 m²,3.3 m,13 m,5 phòng,6 phòng,4,Đã có sổ
+"5,8 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",23 m²,3 m,8.5 m,4 phòng,3 phòng,3,Đã có sổ
+7 tỷ,"28/48, Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25.3 m²,3.3 m,8.7 m,3 phòng,3 phòng,2,Đã có sổ
+"22,5 tỷ","Nguyễn Trãi , Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",50 m²,5 m,10 m,5 phòng,3 phòng,N/A,Đã có sổ
+18 tỷ,"Đường Nguyễn Duy Dương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",52 m²,4 m,13 m,1 phòng,1 phòng,2,Đã có sổ
+"4,2 tỷ","Đường Nguyễn Văn Đậu, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",42 m²,7 m,6 m,2 phòng,2 phòng,2,Đã có sổ
+13 triệu/tháng,"Đường Bàu Cát 8, Phường 11, Quận Tân Bình, Tp Hồ Chí Minh","Nhà ngõ, hẻm",36 m²,4 m,9 m,3 phòng,3 phòng,3,Đã có sổ
+"13,7 tỷ","560, Đường Nguyễn Văn Cừ, Phường Gia Thụy, Quận Long Biên, Hà Nội","Nhà mặt phố, mặt tiền",70 m²,4 m,N/A,5 phòng,5 phòng,5,Đã có sổ
+"22,5 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",64 m²,4.2 m,16 m,3 phòng,3 phòng,N/A,Đã có sổ
+"3,2 tỷ","Đường Hùng Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,3 phòng,3 phòng,2,Đã có sổ
+"4,2 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",36.5 m²,4.15 m,10 m,2 phòng,2 phòng,2,Đã có sổ
+"8,2 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,3.3 m,13 m,3 phòng,N/A,N/A,Đã có sổ
+"16,35 tỷ","01, Phố Hoàng Minh Giám, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",N/A,N/A,N/A,N/A,3 phòng,3 phòng,N/A,Sổ hồng riêng
+15 tỷ,"Đường An Bình, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",82 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"10,8 tỷ","565/90, Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53 m²,3.3 m,13 m,5 phòng,6 phòng,5,Đã có sổ
+"7,8 tỷ","Đường Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",81 m²,5.2 m,14.5 m,4 phòng,5 phòng,N/A,Đã có sổ
+"5,75 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",34 m²,3.8 m,9 m,2 phòng,3 phòng,3,Đã có sổ
+24 tỷ,"Đường Nguyễn Trãi, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",100 m²,5 m,20 m,5 phòng,N/A,5,Đã có sổ
+"4,6 tỷ","Đường Trần Phú, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50.5 m²,5 m,10.1 m,4 phòng,4 phòng,2,Đã có sổ
+"2,99 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,44 m²,4 m,11 m,4 phòng,3 phòng,3,Đã có sổ
+"4,22 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,66 m²,5.5 m,12 m,4 phòng,N/A,N/A,Đã có sổ
+32 tỷ,"Đường Phan Văn Khoẻ, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",222.2 m²,4 m,30 m,2 phòng,1 phòng,1,Đã có sổ
+"2,7 tỷ","Đường Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",12 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"10,5 tỷ","2, Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,52 m²,3.8 m,14 m,6 phòng,6 phòng,4,Đã có sổ
+"5,3 tỷ","Đường Trần Thúc Nhẫn, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng","Nhà mặt phố, mặt tiền",96 m²,5 m,19 m,3 phòng,2 phòng,2,Đã có sổ
+"9,2 tỷ","Hẻm 175 Lê Hồng Phong, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40.5 m²,3.5 m,13 m,5 phòng,4 phòng,5,Đã có sổ
+"30,68 tỷ","157C, Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",43.9 m²,3.5 m,12.6 m,5 phòng,N/A,5,Đã có sổ
+"22,8 tỷ","Đường Ngô Quyền, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,4 m,25 m,6 phòng,N/A,N/A,Đã có sổ
+11 tỷ,"Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,4 m,15 m,4 phòng,4 phòng,3,Đã có sổ
+"3,6 tỷ","Đường Ngô Gia Tự, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53.5 m²,5.3 m,11 m,4 phòng,4 phòng,2,Đã có sổ
+"5,35 tỷ","Đường Trần Phú, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",33.8 m²,3.3 m,10 m,9 phòng,4 phòng,4,Đã có sổ
+"5,98 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",29 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"9,5 tỷ","Đường Nguyễn Tri Phương, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,3.6 m,12 m,3 phòng,3 phòng,4,Đã có sổ
+"1,87 tỷ","Đường An Dương Vương, Phường 3, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",12 m²,4.5 m,12 m,3 phòng,3 phòng,N/A,Đã có sổ
+"6,5 tỷ","Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,3.5 m,14 m,4 phòng,3 phòng,3,Đã có sổ
+4 triệu/tháng,"256/31, Đường Dương Quảng Hàm, Phường 5, Quận Gò Vấp, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,86 tỷ","Đường Tân Thành, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"4,23 tỷ","Đường Lưu Xuân Tín, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"8,48 tỷ","Đường Nguyễn Trãi, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53 m²,N/A,N/A,1 phòng,1 phòng,N/A,Đã có sổ
+"3,93 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"11,7 tỷ","Đường Ngô Quyền, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,8 m,7 m,5 phòng,5 phòng,6,Đã có sổ
+"10,5 tỷ","247, Đường Nguyễn Văn Linh, Phường Phúc Đồng, Quận Long Biên, Hà Nội",Nhà phố liền kề,50 m²,9 m,N/A,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,7,Đã có sổ
+14 tỷ,"Đường An Bình, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",88 m²,N/A,N/A,nhiều hơn 10 phòng,Nhiều hơn 6 phòng,44,Đã có sổ
+10 triệu/tháng,"18, Phan Văn Trị, Phường 10, Quận Gò Vấp, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"9,09 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,N/A,N/A,5 phòng,6 phòng,N/A,Đã có sổ
+"5,5 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26 m²,N/A,N/A,3 phòng,2 phòng,N/A,Đã có sổ
+"7,599 tỷ","Đường Dương Tử Giang, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",65 m²,4.4 m,15 m,2 phòng,3 phòng,3,Đã có sổ
+"2,25 tỷ","Đường Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,4 m,13 m,4 phòng,4 phòng,3,Đã có sổ
+"26,9 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",150 m²,7 m,22 m,6 phòng,N/A,N/A,Đã có sổ
+"6,9 tỷ","387/20B, Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",64 m²,4 m,16 m,2 phòng,N/A,2,Đã có sổ
+"12,5 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,48 m²,N/A,N/A,1 phòng,N/A,3,Đã có sổ
+"3,85 tỷ","Đường Tản Đà, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,5 phòng,6 phòng,3,Đã có sổ
+"5,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,11.5 m,3 phòng,N/A,N/A,Đã có sổ
+"6,58 tỷ","Bán Nhà 3 Lầu Hẻm Trần Hưng Đạo P7 Q5., Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,3.7 m,14 m,4 phòng,3 phòng,3,Đã có sổ
+"2,15 tỷ","Đường Triệu Quốc Đạt, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng","Nhà ngõ, hẻm",99 m²,8.2 m,12 m,3 phòng,N/A,2,Đã có sổ
+"12,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,N/A,N/A,4 phòng,N/A,4,Đã có sổ
+"11,8 tỷ","Ký Hoà, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",50 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"3,23 tỷ","Đường Nguyễn Chí Thanh, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",48 m²,5 m,9.6 m,3 phòng,N/A,N/A,Đã có sổ
+"8,99 tỷ","Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",30 m²,3.5 m,8 m,5 phòng,4 phòng,3,Đã có sổ
+"9,1 tỷ","Đường Nguyễn Tri Phương, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,N/A,N/A,5 phòng,6 phòng,5,Đã có sổ
+"2,39 tỷ","Đường Hồng Bàng, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",12 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"3,12 tỷ","Nguyễn Trãi, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",62.5 m²,4 m,16.3 m,3 phòng,4 phòng,2,Đã có sổ
+"4,25 tỷ","Đường Võ Văn Kiệt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",23 m²,2.9 m,9 m,2 phòng,2 phòng,3,Đã có sổ
+"26,5 tỷ","Đường Nguyễn Trãi, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",75 m²,4 m,19 m,4 phòng,4 phòng,3,Đã có sổ
+17 tỷ,"Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,75 m²,N/A,N/A,4 phòng,N/A,5,Đã có sổ
+"5,5 tỷ","Đường An Dương Vương, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh","Nhà ngõ, hẻm",56 m²,4 m,14 m,4 phòng,N/A,N/A,Đã có sổ
+"5,4 tỷ","278/26, Đường An Dương Vương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,10 m,4 m,6 phòng,6 phòng,N/A,Đã có sổ
+"3,58 tỷ","Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,4 m,5 m,1 phòng,1 phòng,N/A,Đã có sổ
+"5,5 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,3 phòng,3 phòng,3,Đã có sổ
+"5,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",31 m²,3 m,10.5 m,3 phòng,N/A,3,Đã có sổ
+"2,99 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",27 m²,3 m,9 m,3 phòng,3 phòng,3,Đã có sổ
+11 tỷ,"Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,4 m,14 m,3 phòng,3 phòng,4,Đã có sổ
+5 tỷ,"Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20.1 m²,4 m,5 m,3 phòng,3 phòng,3,Đã có sổ
+"4,5 tỷ","Đường Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",36 m²,4 m,9 m,3 phòng,N/A,4,Đã có sổ
+13 tỷ,"Đường An Bình, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,6 phòng,6 phòng,5,Đã có sổ
+29 tỷ,"Đường An Dương Vương, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",92 m²,4 m,23 m,6 phòng,N/A,N/A,Đã có sổ
+"6,3 tỷ","Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,3 phòng,4 phòng,4,Đã có sổ
+"4,58 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20.1 m²,2.9 m,7.6 m,2 phòng,2 phòng,2,Đã có sổ
+17 tỷ,"Đường Trần Tuấn Khải, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",68 m²,4 m,17 m,5 phòng,6 phòng,5,Đã có sổ
+"4,39 tỷ","Đường Võ Trường Toản, Phường 12, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,30 m²,5 m,6 m,4 phòng,5 phòng,5,Đã có sổ
+"5,4 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",37.5 m²,N/A,N/A,2 phòng,N/A,2,Đã có sổ
+"1,78 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,52 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+9 tỷ,"Đường Yết Kiêu, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",32.6 m²,4 m,8.15 m,1 phòng,1 phòng,1,Đã có sổ
+"11,6 tỷ","Đường Nguyễn Trãi, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,4 m,14.5 m,4 phòng,4 phòng,3,Đã có sổ
+"2,54 tỷ","Đường An Dương Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,N/A,N/A,4 phòng,3 phòng,N/A,Đã có sổ
+"9,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",44 m²,3.6 m,12.8 m,3 phòng,3 phòng,4,Đã có sổ
+50 tỷ,"Đường Hải Thượng Lãn Ông, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,4 m,25 m,4 phòng,N/A,4,Đã có sổ
+"3,35 tỷ","Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25 m²,N/A,N/A,2 phòng,2 phòng,N/A,Đã có sổ
+"9,8 tỷ","Đường Hùng Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",38.8 m²,3.5 m,11.2 m,3 phòng,4 phòng,3,Đã có sổ
+11 tỷ,"Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",58 m²,4.1 m,14 m,4 phòng,N/A,N/A,Đã có sổ
+"10,5 tỷ","117, Đường Nguyễn Sơn, Phường Gia Thụy, Quận Long Biên, Hà Nội",Nhà phố liền kề,55 m²,4.5 m,N/A,4 phòng,4 phòng,5,Đã có sổ
+"20,6 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",80 m²,N/A,N/A,6 phòng,N/A,N/A,Đã có sổ
+"7,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",46 m²,4.6 m,10 m,4 phòng,3 phòng,3,Đã có sổ
+"8,9 tỷ","Đường Trần Phú, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",80 m²,8.5 m,10 m,4 phòng,2 phòng,2,Đã có sổ
+"4,58 tỷ","Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",29 m²,2.5 m,8 m,3 phòng,3 phòng,N/A,Đã có sổ
+"2,98 tỷ","Đường Nguyễn Biểu, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"2,55 tỷ","Đường Nguyễn Biểu, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,N/A,N/A,4 phòng,3 phòng,4,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",55 m²,4 m,13.5 m,5 phòng,5 phòng,5,Đã có sổ
+"6,6 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,N/A,N/A,2 phòng,2 phòng,N/A,Đã có sổ
+8 triệu/tháng,"120/, Đường Nguyễn Công Hoan, Phường 7, Quận Phú Nhuận, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Đã có sổ
+"3,5 tỷ","29, Ap phú thanh, Xã Phước Lý, Huyện Cần Giuộc, Long An",N/A,242 m²,9 m,27 m,N/A,N/A,N/A,Đã có sổ
+"8,2 tỷ","Hồng Bàng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,3.4 m,15 m,4 phòng,3 phòng,3,Đã có sổ
+"2,95 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25 m²,N/A,N/A,3 phòng,4 phòng,3,Đã có sổ
+"7,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53 m²,4 m,14 m,2 phòng,N/A,2,Đã có sổ
+11 tỷ,"Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",120 m²,N/A,N/A,5 phòng,3 phòng,2,Đã có sổ
+"4,16 tỷ","Đường Phù Đổng Thiên Vương, Phường 4, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,65.8 m²,4.7 m,14 m,5 phòng,6 phòng,5,Đã có sổ
+"3,26 tỷ","Đường Võ Văn Kiệt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,2 m,10 m,4 phòng,4 phòng,2,Đã có sổ
+"1,32 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",18 m²,N/A,N/A,3 phòng,3 phòng,1,Đã có sổ
+"13,5 tỷ","Đường An Dương Vương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",50 m²,3.8 m,13 m,4 phòng,N/A,5,Đã có sổ
+"4,33 tỷ","Đường Huỳnh Mẫn Đạt, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60.72 m²,4.6 m,13.2 m,3 phòng,4 phòng,2,Đã có sổ
+"10,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",45 m²,3.5 m,13 m,5 phòng,N/A,4,Đã có sổ
+"27,5 tỷ","Đường Ngô Quyền, Phường 8, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",82 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"10,5 tỷ","Đường Lê Hồng Phong, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",25.7 m²,N/A,N/A,2 phòng,2 phòng,N/A,Đã có sổ
+"11,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,46 m²,3.7 m,13 m,5 phòng,6 phòng,4,Đã có sổ
+"7,4 tỷ","Đường Bùi Hữu Nghĩa, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",65.5 m²,4.1 m,16 m,6 phòng,6 phòng,3,Đã có sổ
+"4,59 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,5 phòng,6 phòng,4,Đã có sổ
+"5,2 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20.1 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"4,865 tỷ","Đường Trần Hòa, Phường 10, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",45 m²,4.5 m,10 m,4 phòng,5 phòng,2,Đã có sổ
+"5,8 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",31 m²,3 m,11.7 m,3 phòng,3 phòng,3,Đã có sổ
+12 tỷ,"Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",62.5 m²,4 m,16 m,5 phòng,5 phòng,4,Đã có sổ
+"1,1 triệu/tháng","84, Nguyễn Tất Thành, Phường 13, Quận 4, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9 tỷ,"Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,3.2 m,13 m,5 phòng,6 phòng,5,Đã có sổ
+"7,6 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",29 m²,4 m,9 m,4 phòng,3 phòng,3,Đã có sổ
+"12,5 tỷ","Đường Hùng Vương, Phường 9, Quận 5, Tp Hồ Chí Minh",Nhà biệt thự,55 m²,4.05 m,14 m,5 phòng,5 phòng,5,Đã có sổ
+"9,5 tỷ","Đường Võ Trường Toản, Phường 12, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",54 m²,3.5 m,15.5 m,5 phòng,4 phòng,4,Đã có sổ
+"3,25 tỷ","Đường Nguyễn Trãi, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,N/A,N/A,4 phòng,3 phòng,3,Đã có sổ
+"3,39 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,3 m,10 m,3 phòng,4 phòng,4,Đã có sổ
+31 tỷ,"Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",100 m²,5 m,N/A,6 phòng,N/A,N/A,Đã có sổ
+"5,18 tỷ","Đường Bùi Hữu Nghĩa, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,4 m,10 m,4 phòng,3 phòng,2,Đã có sổ
+"9,5 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",46 m²,3.65 m,12.8 m,3 phòng,N/A,N/A,Đã có sổ
+"4,25 tỷ","Đường Huỳnh Mẫn Đạt, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",65 m²,5 m,13 m,3 phòng,N/A,N/A,Đã có sổ
+"6,8 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26.8 m²,3.35 m,8 m,2 phòng,3 phòng,4,Đã có sổ
+"4,5 tỷ","Nguyễn Văn Cừ, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3.5 m,6 m,3 phòng,N/A,5,Đã có sổ
+"4,1 tỷ","Đường Võ Văn Kiệt, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",38 m²,3.8 m,10 m,2 phòng,2 phòng,2,Đã có sổ
+"5,8 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,N/A,9.3 m,3 phòng,4 phòng,4,Đã có sổ
+"4,2 tỷ","AN DƯƠNG VƯƠNG, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",36 m²,N/A,N/A,3 phòng,3 phòng,N/A,Đã có sổ
+"2,55 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",26 m²,N/A,N/A,4 phòng,3 phòng,4,Đã có sổ
+"5,8 tỷ","Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",31 m²,3 m,10 m,3 phòng,3 phòng,N/A,Đã có sổ
+"6,5 tỷ","900/, Đường Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",49 m²,3.5 m,14 m,3 phòng,3 phòng,3,Đã có sổ
+38 tỷ,"Trầ, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",64 m²,4 m,16 m,2 phòng,2 phòng,4,Đã có sổ
+"8,95 tỷ","Đường Nguyễn Trãi, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",46 m²,3.3 m,14 m,1 phòng,1 phòng,1,Đã có sổ
+3 tỷ,"Đường Nguyễn Văn Cừ, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,N/A,N/A,6 phòng,3 phòng,N/A,Đã có sổ
+"6,3 tỷ","835, Đường Trần Hưng Đạo, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",33 m²,3 m,11 m,3 phòng,3 phòng,3,Đã có sổ
+"6,6 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3.5 m,7 m,2 phòng,3 phòng,2,Đã có sổ
+36 tỷ,"Đường Sư Vạn Hạnh, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",64 m²,4 m,16 m,7 phòng,5 phòng,5,Đã có sổ
+"4,8 triệu/tháng","Đường số 27, Phường 6, Quận Gò Vấp, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"1,66 tỷ","Đường Huỳnh Mẫn Đạt, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"1,86 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"6,1 tỷ","Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,3 m,13.5 m,1 phòng,1 phòng,2,Đã có sổ
+11 triệu/tháng,"961, hau giang p11 q 6, Phường 11, Quận 6, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,Sổ hồng riêng
+"6,55 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",23.1 m²,3.7 m,7 m,4 phòng,N/A,N/A,Đã có sổ
+"4,1 tỷ","Đường Phan Văn Trị, Phường 2, Quận 5, Tp Hồ Chí Minh",Nhà phố liền kề,75 m²,5 m,15 m,4 phòng,5 phòng,N/A,Đã có sổ
+"6,59 tỷ","Đường Trần Bình Trọng, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,4 m,15 m,3 phòng,3 phòng,2,Đã có sổ
+"7,4 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",39 m²,3.9 m,10 m,4 phòng,N/A,N/A,Đã có sổ
+10 tỷ,"Đường Hải Thượng Lãn Ông, Phường 14, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",70 m²,N/A,N/A,6 phòng,N/A,N/A,Đã có sổ
+10 tỷ,"Đường Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",28 m²,3.5 m,8 m,3 phòng,N/A,N/A,Đã có sổ
+"4,95 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",20 m²,N/A,N/A,3 phòng,N/A,N/A,Đã có sổ
+"5,67 tỷ","An Bình, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",37 m²,3.3 m,8.3 m,5 phòng,4 phòng,N/A,N/A
+"2,48 tỷ","Đường Vạn Tượng, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",40 m²,N/A,N/A,4 phòng,5 phòng,3,Đã có sổ
+"15,5 tỷ","Đường Mạc Cửu, Phường 13, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",47 m²,N/A,N/A,5 phòng,N/A,N/A,Đã có sổ
+"10,8 tỷ","Đường Nguyễn Trãi, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",46 m²,N/A,N/A,5 phòng,6 phòng,4,Đã có sổ
+"11,5 tỷ","Nguyễn Biểu, Phường 1, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",53 m²,N/A,N/A,10 phòng,N/A,N/A,Đã có sổ
+"7,8 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",46 m²,N/A,N/A,5 phòng,5 phòng,3,Đã có sổ
+"3,9 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",24 m²,3 m,8 m,2 phòng,1 phòng,3,Đã có sổ
+"17,5 tỷ","Đường Hùng Vương, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",55 m²,4 m,14 m,4 phòng,N/A,N/A,Đã có sổ
+"3,2 tỷ","Trần Hoà, Phường 11, Quận 5, Tp Hồ Chí Minh","Nhà mặt phố, mặt tiền",15 m²,N/A,N/A,4 phòng,N/A,N/A,Đã có sổ
+"2,95 tỷ","Đường Lạc Long Quân, Phường 5, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",25 m²,2.792 m,N/A,2 phòng,N/A,2,Đã có sổ
+"7,9 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",72 m²,4 m,18 m,3 phòng,4 phòng,2,Đã có sổ
+"4,7 tỷ","Đường Số 2, Phường Tăng Nhơn Phú B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh","Nhà ngõ, hẻm",53 m²,4 m,14.5 m,3 phòng,3 phòng,2,Đã có sổ
+"6,5 tỷ","Đường Nguyễn Trãi, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",23 m²,3.5 m,6.5 m,3 phòng,N/A,N/A,Đã có sổ
+"4,45 tỷ","Đường Trần Phú, Phường 4, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",21 m²,3.1 m,7 m,3 phòng,3 phòng,3,Đã có sổ
+85 triệu,"8, số 37 khu dân cư tân qui đông, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Giấy tờ khác
+"1,77 tỷ","Đường Bùi Hữu Nghĩa, Phường 7, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",10 m²,N/A,N/A,2 phòng,2 phòng,N/A,Đã có sổ
+13 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",60 m²,4 m,15 m,5 phòng,5 phòng,5,Đã có sổ
+"3,98 tỷ","Trần Hưng Đạo, Phường 2, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",30 m²,5 m,6 m,2 phòng,2 phòng,N/A,Đã có sổ
+"10,9 tỷ","Đường Nghĩa Thục, Phường 6, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",64.4 m²,4 m,16.1 m,2 phòng,3 phòng,2,Đã có sổ
+"12,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 5, Tp Hồ Chí Minh","Nhà ngõ, hẻm",51 m²,4 m,13.5 m,5 phòng,N/A,5,Đã có sổ
